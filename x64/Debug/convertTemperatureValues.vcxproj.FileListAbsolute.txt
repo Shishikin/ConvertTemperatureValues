@@ -1,0 +1,2 @@
+C:\visial studio\convertTemperatureValues\x64\Debug\convertTemperatureValues.exe
+C:\visial studio\Askon\convertTemperatureValues\x64\Debug\convertTemperatureValues.exe
